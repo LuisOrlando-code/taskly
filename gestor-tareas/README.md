@@ -1,4 +1,4 @@
-# Taskly - Gestor de Tareas
+# taskly
 
 Aplicación web para gestionar tus tareas diarias. Crea, edita y elimina tareas de forma sencilla.
 
